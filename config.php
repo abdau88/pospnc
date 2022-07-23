@@ -84,10 +84,10 @@ define("DEFAULT_EMAIL", "");
 define("DEFAULT_EMAIL_ACCOUNT_NAME", "");
 
 // Database Configuration Settings
-define("DB_HOST", "localhost");
-define("DB_USERNAME", "root");
+define("DB_HOST", "");
+define("DB_USERNAME", "");
 define("DB_PASSWORD", "");
-define("DB_NAME", "pospnc");
+define("DB_NAME", "");
 define("DB_TYPE", "mysql");
 define("DB_PORT", "");
 define("DB_CHARSET", "utf8");
